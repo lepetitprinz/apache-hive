@@ -1,3 +1,5 @@
+.DS_Store
+
 ### Java ###
 # Compiled class file
 *.class
@@ -19,4 +21,6 @@
 *.zip
 *.tar.gz
 *.rar
-DS_STORE
+
+
+/target/
